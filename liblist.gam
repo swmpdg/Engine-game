@@ -1,0 +1,11 @@
+// Valve Game Info file
+//  These are key/value pairs.  Certain mods will use different settings.
+//
+game "Half-Life Enhanced"
+startmap "c0a0"
+trainmap "t0a0"
+mpentity "info_player_deathmatch"
+gamedll "cl_dlls\client.dll"
+gamedll_linux "cl_dlls/client.so"
+gamedll_osx "cl_dlls/client.dylib"
+secure "1"
